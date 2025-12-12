@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PrepXL Assignment - Audio Viz & Transcription",
+  "description": "A circular audio equalizer with real-time Gemini-powered transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
